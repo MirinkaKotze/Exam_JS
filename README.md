@@ -1,6 +1,8 @@
 # Exam_JS
 Beetroot Academy - Exam JavaScript
 
+...*Responsive!*...
+
 Template:
 
 https://www.figma.com/file/OFWqAJe5ScK426pxG1q89b/6f0238fd-4ce5-4320-94bd-c8c26111f1a1-(1)?node-id=0%3A1
