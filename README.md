@@ -1,6 +1,8 @@
 # Exam_JS
 Beetroot Academy - Exam JavaScript
 
+Live Page URL: https://mirinkakotze.github.io/Exam_JS/
+
 ...*Responsive!*...
 
 Template:
